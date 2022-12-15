@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Momin"
+  given-names: "Abdul Aziz"
+  orcid: "https://orcid.org/0000-0002-6957-7874"
+title: "Parallel-Programming-Projects"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-12-14
+url: "https://github.com/AzizMaz7/Parallel-Programming-Projects"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Momin"
+    given-names: "Abdul Aziz"
+    orcid: "https://orcid.org/0000-0002-6957-7874"
+  - family-names: "Shende"
+    given-names: "Nikhil"
+  - family-names: "Anamtatmakula"
+    given-names: "Abhijna"
+  - family-names: "Ganguly"
+    given-names: "Emily"
+  - family-names: "Gurbani"
+    given-names: "Ashwin"
+  - family-names: "Joshi"
+    given-names: "Chaitanya A"
+  - family-names: "Mahajan"
+    given-names: "Yogesh Y" 
+  doi: "https://doi.org/10.48550/arXiv.2107.11737"
+  journal: "arXiv"
+  month: 07
+  start: 1 # First page number
+  end: 8 # Last page number
+  title: "Mathematical Modeling of Heat Conduction"
+  issue: 11737
+  volume: 07
+  year: 2021
