@@ -116,3 +116,15 @@ elif rank == 1:
     print(dataa)
     print(datab)
     print("proc 1 is done")
+
+@article{Momin_Mathematical_Modeling_of_2021,
+author = {Momin, Abdul Aziz and Shende, Nikhil and Anamtatmakula, Abhijna and Ganguly, Emily and Gurbani, Ashwin and Joshi, Chaitanya A and Mahajan, Yogesh Y},
+doi = {https://doi.org/10.48550/arXiv.2107.11737},
+journal = {arXiv},
+month = {7},
+number = {11737},
+pages = {1--8},
+title = {{Mathematical Modeling of Heat Conduction}},
+volume = {7},
+year = {2021}
+}
