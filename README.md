@@ -32,3 +32,5 @@ preferred-citation:
   issue: 11737
   volume: 07
   year: 2021
+
+Momin, A. A., Shende, N., Anamtatmakula, A., Ganguly, E., Gurbani, A., Joshi, C. A., & Mahajan, Y. Y. (2021). Mathematical Modeling of Heat Conduction. arXiv preprint arXiv:2107.11737.
